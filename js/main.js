@@ -22,8 +22,7 @@ let controls;
 
 //Set which object to render
 //let objToRender = 'eye';
-//let objToRender = 'dino'; // Uncomment this line to render the dino model
-let objToRender = 'car'; // Uncomment this line to render the car model
+let objToRender = 'dino'; // Uncomment this line to render the dino model
 
 //Instantiate a loader for the .gltf file
 const loader = new GLTFLoader();
